@@ -10,7 +10,7 @@ import sys
 from PyQt4 import QtGui, QtCore
 
 
-from fgxdev import CommanderMainWindow, show_splash
+from fgx.gui import CommanderMainWindow, show_splash
 
 
 
